@@ -9,6 +9,8 @@ Este repositório encontra-se com acesso restrito e não está disponível publi
 >[!IMPORTANT]
 > Retornaremos o contato o mais rápido possível.
 
+---
+
 ## en-US:
 
 This repository has restricted access and is not publicly available due to the presence of potentially sensitive data in its content. The decision to maintain a closed environment aims to ensure the preservation of privacy, compliance with ethical research principles, and adherence to applicable data protection guidelines. To guarantee that the sharing of information occurs in a controlled and responsible manner, access will be granted upon formal request to the authors, who will evaluate each request individually. The interested party must complete a Non-Disclosure Agreement (NDA) form, formalizing their commitment to confidentiality and appropriate use of the materials provided.
