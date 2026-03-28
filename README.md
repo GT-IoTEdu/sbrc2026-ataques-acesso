@@ -1,5 +1,9 @@
 # AttackZoo
 
+## Avaliadores e membros do Comitê Técnico de Artefados:
+
+As credenciais de acesso ao [repositório](https://github.com/GT-IoTEdu/sbrc2026-ataques) encontram-se no Apêndice do trabalho submetido.
+
 ## pt-BR:
 
 Este repositório encontra-se com acesso restrito e não está disponível publicamente devido à presença de dados potencialmente sensíveis em seu conteúdo. A decisão de manter o ambiente fechado visa assegurar a preservação da privacidade, a conformidade com princípios éticos de pesquisa e o atendimento às diretrizes de proteção de dados aplicáveis. Para garantir que o compartilhamento das informações ocorra de forma controlada e responsável, o acesso será concedido mediante solicitação formal aos autores, que avaliarão cada pedido individualmente. O interessado deverá preencher um formulário de Acordo de Não Divulgação (NDA), formalizando o compromisso de confidencialidade e uso adequado dos materiais disponibilizados.
