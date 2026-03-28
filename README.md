@@ -2,7 +2,7 @@
 
 ## Avaliadores e membros do Comitê Técnico de Artefados:
 
-As credenciais de acesso ao [repositório](https://github.com/GT-IoTEdu/sbrc2026-ataques) encontram-se no Apêndice do trabalho submetido.
+As credenciais de acesso ao [repositório](https://github.com/GT-IoTEdu/sbrc2026-ataques) encontram-se no `Apêndice` do trabalho submetido.
 
 ## pt-BR:
 
